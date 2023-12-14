@@ -142,5 +142,3 @@ class _FeedState extends State<Feed> with SingleTickerProviderStateMixin {
     );
   }
 }
-
-//https://codelabs.developers.google.com/codelabs/flutter-animated-responsive-layout?hl=en#7
